@@ -1,2 +1,2 @@
 # PhysicsTelegramBot
-Телеграмм-бот по физике
+Telegram bot plotter 
